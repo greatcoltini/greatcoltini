@@ -5,7 +5,7 @@ Currently, I am working as an intern with Kinaxis as part of the AI Platform tea
 
 In my spare time, I develop games using Godot and make modifications to existing games.
 
-##  Projects ##
+## Highlighted Projects ##
 
 [Surviving the Wilds](https://github.com/greatcoltini/game_website/tree/main) - A procedurally generated survival crafting game
 - made with Godot 4.0+ ; GDScript ; Aseprite for Pixel art
