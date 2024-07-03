@@ -20,5 +20,8 @@ In my spare time, I develop games using Godot and make modifications to existing
 - made with HTML / CSS / JavaScript
 - portfolio about myself and current work
 
-
+[League of Legends - Match History](https://greatcoltini.github.io/homepageCS50/summoner_info.html)
+- a website made from HTML / CSS / JavaScript
+- utilizes RiotGames API to pull data from matches played to show stats for the user
+- features dynamically generated League of Legends quiz!
 
