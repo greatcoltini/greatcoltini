@@ -1,7 +1,7 @@
 # COLTON DONKERSGOED - INTERN AI PLATFORM ENGINEER
 I am passionate about learning new technologies and exploring the world of software engineering and development!
 
-Currently, I am working as an intern with Kinaxis as part of the AI Platform team - assisting in developing the platform upon which Kinaxis runs!
+Currently, I am working as an intern with Kinaxis as part of the AI Platform team - assisting in developing the platform upon which the AI team runs!
 
 In my spare time, I develop games using Godot and make modifications to existing games.
 
