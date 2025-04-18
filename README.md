@@ -25,6 +25,9 @@ In my spare time, I develop games using Godot and make modifications to existing
 - utilizes RiotGames API to pull data from matches played to show stats for the user
 - features dynamically generated League of Legends quiz!
 
+[Minecraft Additions - R.E.P.O Mod](https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/)
+- Adds some minecraft stuff to R.E.P.O
+
 [Shark Meat - Raft mod](https://www.raftmodding.com/mods/shark-meat-from-shark-head)
 - decompiled game source code and used modding API to add a new recipe
 - has >11,000 downloads!
