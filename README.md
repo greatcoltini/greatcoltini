@@ -6,6 +6,7 @@ Currently, I am working as an Software Developer I with Kinaxis as part of the A
 In my spare time, I develop games using Godot and make modifications to existing games.
 
 ## Highlighted Projects ##
+![Library Header LONE SUVIVOR](https://github.com/user-attachments/assets/58f05389-fa0d-4c3b-94e2-3fba987abe9f)
 
 [Lone Survivors](https://store.steampowered.com/app/3629280/Lone_Survivors/)
 - A Vampire Survivors-inspired game where your weapons attack for you
