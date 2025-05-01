@@ -7,6 +7,10 @@ In my spare time, I develop games using Godot and make modifications to existing
 
 ## Highlighted Projects ##
 
+[Lone Survivors](https://store.steampowered.com/app/3629280/Lone_Survivors/)
+- A Vampire Survivors-inspired game where your weapons attack for you
+- You have a single active ability, and multiple auto-attacking weapons to protect you from hordes of enemies!
+
 [Surviving the Wilds](https://github.com/greatcoltini/game_website/tree/main) - A procedurally generated survival crafting game
 - made with Godot 4.0+ ; GDScript ; Aseprite for Pixel art
 - implements chunk-based generation for overworld using simplex noise
