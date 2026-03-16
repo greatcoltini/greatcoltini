@@ -1,4 +1,4 @@
-# COLTON DONKERSGOED - SOFTWARE DEVELOPER FOR AI PLATFORM - KINAXIS
+# COLTON DONKERSGOED - SOFTWARE DEVELOPER 2 AI/ML - KINAXIS
 I am passionate about learning new technologies and exploring the world of software engineering and development!
 
 Currently, I am working as an Software Developer 2 with Kinaxis as part of the ML/AI team!
