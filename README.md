@@ -4,7 +4,11 @@
 
 I work with **Kinaxis** on the **AI Platform team**. Outside work, I build games and mods as **GreatColtini Industries**.
 
-[Steam games](https://store.steampowered.com/app/3629280/Lone_Survivors/) · [Projects](https://github.com/greatcoltini?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/colton-donkersgoed)
+<p>
+  <a href="https://store.steampowered.com/app/3629280/Lone_Survivors/"><img src="assets/nav-steam-games.svg" alt="Steam games" width="172" height="44"></a>
+  <a href="https://github.com/greatcoltini?tab=repositories"><img src="assets/nav-projects.svg" alt="Projects" width="146" height="44"></a>
+  <a href="https://www.linkedin.com/in/colton-donkersgoed"><img src="assets/nav-linkedin.svg" alt="LinkedIn" width="146" height="44"></a>
+</p>
 
 ![Gold divider](assets/gold-divider.svg)
 

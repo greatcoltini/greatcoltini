@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="44" viewBox="0 0 146 44" role="img" aria-label="PROJECTS">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#25343c"/><stop offset="1" stop-color="#152129"/></linearGradient></defs>
+<rect x="1" y="1" width="144" height="42" rx="7" fill="url(#bg)" stroke="#b08c45"/>
+<path d="M9 2H137" stroke="#ead298" stroke-opacity=".45"/>
+<text x="63.0" y="27" text-anchor="middle" fill="#f1e5cc" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">PROJECTS</text>
+<text x="124" y="28" text-anchor="middle" fill="#e5bd65" font-family="Arial,sans-serif" font-size="18">↗</text>
+</svg>
