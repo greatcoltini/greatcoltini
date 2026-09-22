@@ -8,27 +8,32 @@ I work with **Kinaxis** on the **AI Platform team**. Outside work, I build games
 
 ![Gold divider](assets/gold-divider.svg)
 
-## Kingdom TD: Draft Your Demise
+## Games by GreatColtini Industries
 
-[![Kingdom TD Steam screenshot carousel with 3D card flips](assets/kingdom-td-carousel.gif)](https://store.steampowered.com/app/4990780/Kingdom_TD_Draft_Your_Demise/)
+Building the next adventure. Play the last one today.
 
-### Draft your enemies. Defend your kingdom.
-
-A reverse-draft tower defense where you choose what comes down the path.
-
-**In development** · Godot · GDScript · Strategy
-
-**[View Kingdom TD on Steam →](https://store.steampowered.com/app/4990780/Kingdom_TD_Draft_Your_Demise/)**
-
-
-
-## Released: Lone Survivors
-
-[![Lone Survivors Steam image carousel with 3D card flips](assets/lone-survivors-carousel.gif)](https://store.steampowered.com/app/3629280/Lone_Survivors/)
-
-**Survive. Adapt. Become unstoppable.** A fantasy bullet heaven built around weapon synergies, classes, and escalating hordes.
-
-**[Play Lone Survivors on Steam →](https://store.steampowered.com/app/3629280/Lone_Survivors/)**
+<table>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://store.steampowered.com/app/4990780/Kingdom_TD_Draft_Your_Demise/"><img src="assets/kingdom-td-carousel.gif" alt="Kingdom TD Steam screenshot carousel with 3D card flips" width="100%"></a>
+<p><sub><strong>IN DEVELOPMENT · GODOT · TOWER DEFENSE + CARD DRAFT</strong></sub></p>
+<h3>Kingdom TD: Draft Your Demise</h3>
+<p>Draft your enemies. Build your defenses. Decide what comes down the path.</p>
+<p><strong><a href="https://store.steampowered.com/app/4990780/Kingdom_TD_Draft_Your_Demise/">Explore on Steam →</a></strong></p>
+</td>
+</tr>
+<tr>
+<td width="36%" valign="middle">
+<a href="https://store.steampowered.com/app/3629280/Lone_Survivors/"><img src="assets/lone-survivors-carousel.gif" alt="Lone Survivors Steam image carousel with 3D card flips" width="100%"></a>
+</td>
+<td width="64%" valign="middle">
+<p><sub><strong>RELEASED · GODOT · SURVIVORS-LIKE</strong></sub></p>
+<h3>Lone Survivors</h3>
+<p>Survive the horde with weapon synergies, distinct classes, and one more run.</p>
+<p><strong><a href="https://store.steampowered.com/app/3629280/Lone_Survivors/">Play on Steam →</a></strong></p>
+</td>
+</tr>
+</table>
 
 ## Community creations
 
