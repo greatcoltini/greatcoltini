@@ -49,9 +49,34 @@ A reverse-draft tower defense where you choose what comes down the path.
 <p><a href="https://www.raftmodding.com/mods/shark-meat-from-shark-head">View on RaftModding →</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://valheim.hexium.gg/mods/GreatColtini/CloserMiniBiomes"><img src="assets/closer-mini-biomes.png" alt="CloserMiniBiomes artwork" width="100%"></a>
+<h3>CloserMiniBiomes</h3>
+<p><strong>Valheim · World generation</strong></p>
+<p>Bring Valheim's alternative mini-biomes closer to the world spawn.</p>
+<p><a href="https://valheim.hexium.gg/mods/GreatColtini/CloserMiniBiomes">View on Hexium →</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/"><img src="assets/minecraft-additions.png" alt="Minecraft Additions Enderman artwork" width="100%"></a>
+<h3>Minecraft Additions</h3>
+<p><strong>R.E.P.O. · Monsters &amp; valuables</strong></p>
+<p>Bring the Enderman, diamonds, Nether Stars, and TNT into R.E.P.O.</p>
+<p><a href="https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/">View on Thunderstore →</a> · <sub>Legacy mod</sub></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3732508344"><img src="assets/necesse-power.png" alt="Necesse Power original Workshop artwork" width="320"></a>
+<h3>Necesse Power</h3>
+<p><strong>Necesse · Power networks &amp; automation</strong></p>
+<p>Build a power grid with generators, batteries, towers, and automated mining.</p>
+<p><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3732508344">View on Steam Workshop →</a></p>
+</td>
+</tr>
 </table>
 
-More experiments: [Surviving the Wilds](https://github.com/greatcoltini/game_website) · [Minecraft Additions](https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/) · [Finance](https://github.com/greatcoltini/finance)
+More experiments: [Surviving the Wilds](https://github.com/greatcoltini/game_website) · [Finance](https://github.com/greatcoltini/finance)
 
 ## The tools behind the work
 
