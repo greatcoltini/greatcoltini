@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="146" height="44" viewBox="0 0 146 44" role="img" aria-label="LINKEDIN">
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="44" viewBox="0 0 166 44" role="img" aria-label="LINKEDIN">
 <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#25343c"/><stop offset="1" stop-color="#152129"/></linearGradient></defs>
-<rect x="1" y="1" width="144" height="42" rx="7" fill="url(#bg)" stroke="#b08c45"/>
-<path d="M9 2H137" stroke="#ead298" stroke-opacity=".45"/>
-<text x="63.0" y="27" text-anchor="middle" fill="#f1e5cc" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">LINKEDIN</text>
-<text x="124" y="28" text-anchor="middle" fill="#e5bd65" font-family="Arial,sans-serif" font-size="18">↗</text>
+<rect x="1" y="1" width="164" height="42" rx="7" fill="url(#bg)" stroke="#b08c45"/>
+<path d="M9 2H157" stroke="#ead298" stroke-opacity=".45"/>
+<svg x="14" y="12" width="20" height="20" viewBox="0 0 128 128" fill="#e5bd65"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" fill="#e5bd65" d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z" /><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" fill="#19262e" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 11-10.5 10.49 10.5 10.5 0 0110.5-10.49M50.53 48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z" /></svg>
+<text x="44" y="27" fill="#f1e5cc" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing=".7">LINKEDIN</text>
+<text x="149" y="28" text-anchor="middle" fill="#e5bd65" font-family="Arial,sans-serif" font-size="16">↗</text>
 </svg>

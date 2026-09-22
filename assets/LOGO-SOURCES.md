@@ -8,3 +8,5 @@ Technology marks belong to their respective owners and identify tools used in th
 
 Logo artwork is embedded in locally hosted SVG badges. Mod artwork comes from the linked mod listings.
 
+
+Navigation: Steam from Simple Icons (CC0); GitHub and LinkedIn from Devicon (MIT), recolored gold.
