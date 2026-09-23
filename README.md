@@ -12,6 +12,24 @@ I work with **Kinaxis** on the **AI Platform team**. Outside work, I build games
 
 ![Gold divider](assets/gold-divider.svg)
 
+## The tools behind the work
+
+**Cloud & infrastructure**
+
+![Kubernetes](assets/kubernetes.svg) ![Azure](assets/azure.svg) ![Google Cloud](assets/google-cloud.svg) ![Terraform](assets/terraform.svg)
+
+**Data platforms**
+
+![Databricks](assets/databricks.svg)
+
+**Languages**
+
+![Python](assets/python.svg) ![Go](assets/go.svg) ![TypeScript](assets/typescript.svg) ![Java](assets/java.svg) ![C sharp](assets/csharp.svg) ![JavaScript](assets/javascript.svg) ![GDScript](assets/gdscript.svg)
+
+**Game development & modding**
+
+![Godot](assets/godot.svg) ![Unity](assets/unity.svg) ![Unreal Engine](assets/unreal-engine.svg)
+
 ## Games by GreatColtini Industries
 
 Building the next adventure. Play the last one today.
@@ -39,7 +57,7 @@ Building the next adventure. Play the last one today.
 </tr>
 </table>
 
-## Community creations
+## Mods & external projects
 
 <table>
 <tr>
@@ -86,24 +104,6 @@ Building the next adventure. Play the last one today.
 </table>
 
 More experiments: [Surviving the Wilds](https://github.com/greatcoltini/game_website) · [Finance](https://github.com/greatcoltini/finance)
-
-## The tools behind the work
-
-**Cloud & infrastructure**
-
-![Kubernetes](assets/kubernetes.svg) ![Azure](assets/azure.svg) ![Google Cloud](assets/google-cloud.svg) ![Terraform](assets/terraform.svg)
-
-**Data platforms**
-
-![Databricks](assets/databricks.svg)
-
-**Languages**
-
-![Python](assets/python.svg) ![Go](assets/go.svg) ![TypeScript](assets/typescript.svg) ![Java](assets/java.svg) ![C sharp](assets/csharp.svg) ![JavaScript](assets/javascript.svg) ![GDScript](assets/gdscript.svg)
-
-**Game development & modding**
-
-![Godot](assets/godot.svg) ![Unity](assets/unity.svg) ![Unreal Engine](assets/unreal-engine.svg)
 
 ## After hours
 
