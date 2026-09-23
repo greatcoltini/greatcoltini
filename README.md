@@ -12,7 +12,7 @@ I work with **Kinaxis** on the **AI Platform team**. Outside work, I build games
 
 ![Gold divider](assets/gold-divider.svg)
 
-## The tools behind the work
+## Skills & technology
 
 **Cloud & infrastructure**
 
@@ -29,6 +29,10 @@ I work with **Kinaxis** on the **AI Platform team**. Outside work, I build games
 **Game development & modding**
 
 ![Godot](assets/godot.svg) ![Unity](assets/unity.svg) ![Unreal Engine](assets/unreal-engine.svg)
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%">
+</p>
 
 ## Games by GreatColtini Industries
 
@@ -56,6 +60,10 @@ Building the next adventure. Play the last one today.
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%">
+</p>
 
 ## Mods & external projects
 
@@ -103,9 +111,15 @@ Building the next adventure. Play the last one today.
 </tr>
 </table>
 
-More experiments: [Surviving the Wilds](https://github.com/greatcoltini/game_website) · [Finance](https://github.com/greatcoltini/finance)
+### Other projects
 
-## After hours
+[Surviving the Wilds](https://github.com/greatcoltini/game_website) · [Finance](https://github.com/greatcoltini/finance)
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="" width="100%">
+</p>
+
+## GitHub activity
 
 ![My GitHub contribution snake](assets/contribution-snake.svg)
 
