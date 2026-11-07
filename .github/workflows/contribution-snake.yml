@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/contribution-snake.yml
+      - .github/scripts/merge-contributions.mjs
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
@@ -22,13 +23,20 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/contribution-snake.svg?color_snake=#e5bd65&color_dots=#161b22,#4d422b,#786035,#b08c45,#e5bd65
+          node-version: 24
+      # Platane/snk reads one account, so its generator runs with a fetch wrapper
+      # that adds the work account's contributions to the grid.
+      - name: Generate contribution snake (personal + work)
+        run: >
+          npx -y generate-snake-animation@3.5.0
+          --github_user=${{ github.repository_owner }}
+          "--output=assets/contribution-snake.svg?color_snake=#e5bd65&color_dots=#161b22,#4d422b,#786035,#b08c45,#e5bd65"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SNAKE_EXTRA_USERS: cdonkersgoedkxs
+          NODE_OPTIONS: --import ./.github/scripts/merge-contributions.mjs
       - name: Commit updated contribution animation
         run: |
           git config user.name "github-actions[bot]"

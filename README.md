@@ -123,7 +123,7 @@ Building the next adventure. Play the last one today.
 
 ![My GitHub contribution snake](assets/contribution-snake.svg)
 
-<sub>Built from my GitHub contributions, updated daily.</sub>
+<sub>Built from my personal and work (<a href="https://github.com/cdonkersgoedkxs">cdonkersgoedkxs</a>) GitHub contributions, updated daily.</sub>
 
 ---
 
